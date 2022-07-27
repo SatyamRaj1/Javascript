@@ -1,0 +1,3 @@
+- check slice function
+- in node js check ==net module==
+- ==learn DNS module==
